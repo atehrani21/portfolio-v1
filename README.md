@@ -10,6 +10,8 @@ Check the website live [here](http://andrewtehrani.com).
 
 ## License
 
+This open source code follows the standard MIT License below, however, "content files" (images, md/text files containing personal information, etc) may not be used.
+
 ### MIT License
 
 Copyright 2017 Andrew Tehrani
